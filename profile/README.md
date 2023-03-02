@@ -40,18 +40,18 @@ Technologies Used:
 <img align="center" alt="img" src="https://github.com/Chatroom-with-File-System/.github/blob/main/images/img1.png" width="477" height="422" /></p>
 
 <p align = "center"> 
- <img align="center" alt="img" src="https://github.com/Chatroom-with-File-System/.github/blob/main/images/img2.png" width="450" height="275" />
- <img align="center" alt="img" src="https://github.com/Chatroom-with-File-System/.github/blob/main/images/img3.png" width="450" height="275" /></p>
+ <img align="center" alt="img" src="https://github.com/Chatroom-with-File-System/.github/blob/main/images/img2.png" width="400" height="225" />
+ <img align="center" alt="img" src="https://github.com/Chatroom-with-File-System/.github/blob/main/images/img3.png" width="400" height="225" /></p>
  
  <p align="center">
-<img align="center" alt="img" src="https://github.com/Chatroom-with-File-System/.github/blob/main/images/img51.png" width="400" height="275" />
- <img align="center" alt="img" src="https://github.com/Chatroom-with-File-System/.github/blob/main/images/img5.png" width="500" height="275" /></p>
+<img align="center" alt="img" src="https://github.com/Chatroom-with-File-System/.github/blob/main/images/img51.png" width="350" height="225" />
+ <img align="center" alt="img" src="https://github.com/Chatroom-with-File-System/.github/blob/main/images/img5.png" width="450" height="225" /></p>
  
  ## Firebase ##
  <p align="center">
-<img align="center" alt="img" src="https://github.com/Chatroom-with-File-System/.github/blob/main/images/img8.png" width="450" height="275" />
- <img align="center" alt="img" src="https://github.com/Chatroom-with-File-System/.github/blob/main/images/img6.png" width="450" height="275" /></p>
+<img align="center" alt="img" src="https://github.com/Chatroom-with-File-System/.github/blob/main/images/img8.png" width="750" height="400" />
+ <img align="center" alt="img" src="https://github.com/Chatroom-with-File-System/.github/blob/main/images/img6.png" width="750" height="400" /></p>
  
  <p align="center">
-<img align="center" alt="img" src="https://github.com/Chatroom-with-File-System/.github/blob/main/images/img7.png" width="450" height="275" /></p>
+<img align="center" alt="img" src="https://github.com/Chatroom-with-File-System/.github/blob/main/images/img7.png" width="750" height="400" /></p>
 
